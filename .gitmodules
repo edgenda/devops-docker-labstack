@@ -1,0 +1,6 @@
+[submodule "devops-docker-frontend"]
+	path = devops-docker-frontend
+	url = https://github.com/edgenda/devops-docker-frontend.git
+[submodule "devops-docker-nodeapp"]
+	path = devops-docker-nodeapp
+	url = https://github.com/edgenda/devops-docker-nodeapp.git
